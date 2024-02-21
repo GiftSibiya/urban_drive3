@@ -1,12 +1,23 @@
-import "./App.css";
+/// DEPENDENCY IMPORTS ///
+
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
+///--///
+
+/// FILE IMPORT ///
+
+import HomeScreen from "./screens/HomeScreen";
+
+///--///
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>This right here is the Second build deploy test</p>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route index element={<HomeScreen />} />
+        <Route path="/" element={<HomeScreen />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
