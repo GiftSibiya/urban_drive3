@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+}
+.hero--main {
+  height: max-content;
+}
+
+.hero--img {
+  width: 100%;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+.hero--content {
+  position: absolute;
+  top: 35vw;
+  left: 20px;
+}
+.hero--h1 {
+  font-size: 8vw;
+  color: aliceblue;
+}
+.hero--p {
+  width: 90%;
+  font-size: 20px;
+  color: aliceblue;
+}
