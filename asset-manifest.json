@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/urban_drive3/static/css/main.f855e6bc.css",
-    "main.js": "/urban_drive3/static/js/main.a26240ae.js",
+    "main.js": "/urban_drive3/static/js/main.91815d85.js",
     "index.html": "/urban_drive3/index.html",
     "main.f855e6bc.css.map": "/urban_drive3/static/css/main.f855e6bc.css.map",
-    "main.a26240ae.js.map": "/urban_drive3/static/js/main.a26240ae.js.map"
+    "main.91815d85.js.map": "/urban_drive3/static/js/main.91815d85.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.a26240ae.js"
+    "static/js/main.91815d85.js"
   ]
 }
