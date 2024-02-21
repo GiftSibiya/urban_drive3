@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/urban_drive3/static/css/main.f855e6bc.css",
-    "main.js": "/urban_drive3/static/js/main.3b9617dd.js",
+    "main.css": "/urban_drive3/static/css/main.2356f9ba.css",
+    "main.js": "/urban_drive3/static/js/main.3356ff7a.js",
+    "static/media/shuttle.jpg": "/urban_drive3/static/media/shuttle.fb54512c9a2d79a05c02.jpg",
+    "static/media/HeroImg.jpg": "/urban_drive3/static/media/HeroImg.ab4ad4b51e97d69e995c.jpg",
+    "static/media/phone.jpg": "/urban_drive3/static/media/phone.4ec6a30b35285132656b.jpg",
+    "static/media/delivery.jpg": "/urban_drive3/static/media/delivery.f4fa213d4c1cb0bf5337.jpg",
+    "static/media/ertiga-exterior.jpeg": "/urban_drive3/static/media/ertiga-exterior.a0ba5e78cfb48f42735c.jpeg",
+    "static/media/Toyota_Rumion.jpg": "/urban_drive3/static/media/Toyota_Rumion.fa249af814c0ff426845.jpg",
+    "static/media/passenger.jpg": "/urban_drive3/static/media/passenger.c9f1e1717773a0dd4a69.jpg",
+    "static/media/urban_drive_logo.png": "/urban_drive3/static/media/urban_drive_logo.76186274599632ac6a73.png",
     "index.html": "/urban_drive3/index.html",
-    "main.f855e6bc.css.map": "/urban_drive3/static/css/main.f855e6bc.css.map",
-    "main.3b9617dd.js.map": "/urban_drive3/static/js/main.3b9617dd.js.map"
+    "main.2356f9ba.css.map": "/urban_drive3/static/css/main.2356f9ba.css.map",
+    "main.3356ff7a.js.map": "/urban_drive3/static/js/main.3356ff7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.3b9617dd.js"
+    "static/css/main.2356f9ba.css",
+    "static/js/main.3356ff7a.js"
   ]
 }
