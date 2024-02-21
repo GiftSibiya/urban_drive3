@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/urban_drive3/static/css/main.2356f9ba.css",
-    "main.js": "/urban_drive3/static/js/main.3356ff7a.js",
+    "main.js": "/urban_drive3/static/js/main.f0ff26f1.js",
     "static/media/shuttle.jpg": "/urban_drive3/static/media/shuttle.fb54512c9a2d79a05c02.jpg",
     "static/media/HeroImg.jpg": "/urban_drive3/static/media/HeroImg.ab4ad4b51e97d69e995c.jpg",
     "static/media/phone.jpg": "/urban_drive3/static/media/phone.4ec6a30b35285132656b.jpg",
@@ -12,10 +12,10 @@
     "static/media/urban_drive_logo.png": "/urban_drive3/static/media/urban_drive_logo.76186274599632ac6a73.png",
     "index.html": "/urban_drive3/index.html",
     "main.2356f9ba.css.map": "/urban_drive3/static/css/main.2356f9ba.css.map",
-    "main.3356ff7a.js.map": "/urban_drive3/static/js/main.3356ff7a.js.map"
+    "main.f0ff26f1.js.map": "/urban_drive3/static/js/main.f0ff26f1.js.map"
   },
   "entrypoints": [
     "static/css/main.2356f9ba.css",
-    "static/js/main.3356ff7a.js"
+    "static/js/main.f0ff26f1.js"
   ]
 }
